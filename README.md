@@ -4,7 +4,7 @@
 
 ## Description
 
-**FLAPPY-BIRD** is a Python-based game using the Pygame library, providing a classic Flappy Bird experience. Navigate the bird through pipes, aim for a high score, and enjoy a simple yet engaging gaming adventure.
+a Python-based game using the Pygame library, providing a classic Flappy Bird experience. Navigate the bird through pipes, aim for a high score, and enjoy a simple yet engaging gaming adventure.
 
 ## Installation
 
